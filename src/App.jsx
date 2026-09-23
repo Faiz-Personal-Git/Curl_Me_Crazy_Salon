@@ -13,7 +13,7 @@ import {
   Star,
   X,
 } from "lucide-react";
-import "./app.css";
+import "./App.css";
 
 const local = (name) => `/images/${name}`;
 
